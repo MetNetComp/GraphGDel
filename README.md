@@ -128,6 +128,7 @@ We provide scripts to run example tests on the e_coli_core model with GraphGdel 
 -  `quick_run_GraphGdel.py`: predicting gene deletion strategies with GraphGdel on e_coli_core model.
 -  `quick_run_baseline_DNN.py`: predicting gene deletion strategies with the baseline method (DNN) on e_coli_core model.
 -  `quick_run_baseline_DeepGDel.py`: predicting gene deletion strategies with the baseline method (DeepGDel) on e_coli_core model.
+-  `quick_run_baseline_NMA.py`: predicting gene deletion strategies with the baseline method (NMA) on e_coli_core model.
 
 You can run the test script (which default to running computations on the CPU) using the following command:
 
