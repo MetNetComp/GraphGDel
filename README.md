@@ -141,6 +141,9 @@ python3 quick_run_baseline_DNN.py;
 ```
 python3 quick_run_baseline_DeepGDel.py;
 ```
+```
+python3 quick_run_baseline_NMA.py;
+```
 
 Note: Please unzip the e_coli_core data before testing using the following commands:
 
